@@ -43,4 +43,4 @@ def Construct_AVL(L):
 <img width="984" height="105" alt="image" src="https://github.com/user-attachments/assets/a86a1527-56f2-4804-9ef5-669384bf23cf" />
 
 ## RESULT
-Thus the Python program to construct an AVL tree and print the nodes of it using the appropriate packages and built-in function was executed succes
+Thus the Python program to construct an AVL tree and print the nodes of it using the appropriate packages and built-in function was executed successfully.
